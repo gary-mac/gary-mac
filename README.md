@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @gary-mac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gary
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning Java, Spring Boot, Swift, and Android
 
-<!---
-gary-mac/gary-mac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
